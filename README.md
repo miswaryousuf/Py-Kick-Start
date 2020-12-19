@@ -50,19 +50,6 @@ Download from [here](https://play.google.com/store/apps/details?id=com.gazlaws.c
 
 <a href="https://www.python.org/">Dig Deeper</a>
 
-
-____
-## Contributors
-
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/niranjanneeru"><img height= "200px" width= "200px" src="https://avatars1.githubusercontent.com/u/48713926?s=400&u=a473cb9bbbc98506ae6b55ccd2b45cfdc941d517&v=4" width="233px;" alt=""/><br /><sub><b>Niranjan B(Neeru)</b></sub></a><br /><a href="https://github.com/niranjanneeruPython-Kick-Start/Python-Kick-Start/commits?author=niranjanneeru" title="Code">💻</a> <a href="https://github.cPython-Kick-StartPython-Kick-Start/commits?author=niranjanneeru" title="Documentation">📖</a> <a href="#maintenance-niranjanneeru" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/AJITH-klepsydra"><img height= "200px" width= "200px" src="https://avatars3.githubusercontent.com/u/62293152?s=400&v=4" width="233px;" alt=""/><br /><sub><b>Ajith PM(Klepsydra Alpha)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Python-Kick-Start/commits?author=AJITH-klepsydra" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Python-Kick-Start/commits?author=AJITH-klepsydra" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-
 ____
 
 ### FAQs
@@ -94,3 +81,17 @@ ____
 ``` Q. Will there be classes about event handlers and async functions```
 
 >``` A. No, But we are planning another event which will help in dealing with advanced topics```
+
+
+____
+## Contributors
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/niranjanneeru"><img height= "200px" width= "200px" src="https://avatars1.githubusercontent.com/u/48713926?s=400&u=a473cb9bbbc98506ae6b55ccd2b45cfdc941d517&v=4" width="233px;" alt=""/><br /><sub><b>Niranjan B(Neeru)</b></sub></a><br /><a href="https://github.com/niranjanneeruPython-Kick-Start/Python-Kick-Start/commits?author=niranjanneeru" title="Code">💻</a> <a href="https://github.cPython-Kick-StartPython-Kick-Start/commits?author=niranjanneeru" title="Documentation">📖</a> <a href="#maintenance-niranjanneeru" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/AJITH-klepsydra"><img height= "200px" width= "200px" src="https://avatars3.githubusercontent.com/u/62293152?s=400&v=4" width="233px;" alt=""/><br /><sub><b>Ajith PM(Klepsydra Alpha)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Python-Kick-Start/commits?author=AJITH-klepsydra" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Python-Kick-Start/commits?author=AJITH-klepsydra" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+
